@@ -9,13 +9,19 @@
     />
   </head>
   <body>
-<h1>Add an Vendor</h1>
-<p>Add a Vendor here:</p>
-<form action="/vendors" method="post">
-  <label for="vendorName">Vendor name</label>
-  <input id="vendorName" name="vendorName" type="text">
+<h1>Enter Order to Add to the @Model.Name</h1>
+<form action="/vendors/@Model.Id/orders" method="post">
+  <div class="form-group">
+    <input id="vendorId" name="vendorId" type="hidden" value="@Model.Id">
+    <label for="orderName">Order Name</label>
+    <input id="orderName" name="orderName" type="text" required>
+  </div>
   <button type="submit">Add</button>
 </form>
- <p><a href="/">Back home</a></p>
-   </body>
+
+<div class="footer">
+  <a href="/">Return to Home</a>
+  <a href="/vendors/@Model.Id/orders">View Orders</a>
+</div>
+  </body>
 </html>

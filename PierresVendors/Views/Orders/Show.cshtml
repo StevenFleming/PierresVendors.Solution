@@ -1,0 +1,24 @@
+@using PierresVendors.Models
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Pierres Vendors</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+
+<h1>@Model["order"].Name</h1>
+<h3>Order: @Model["vendor"].Name</h3>
+
+<div class="footer">
+
+  <a href='/vendors/@Model["vendor"].Id/orders/new'>Add another Vendor</a>
+<a href='/vendors'>View all vendors</a>
+  <a href='/vendors/@Model["vendor"].Id'>Return To Vendor View</a>
+</div>
+  </body>
+</html>
