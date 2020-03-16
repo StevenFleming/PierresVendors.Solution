@@ -22,9 +22,9 @@ namespace PierresVendors.Models
       _instances.Clear();
     }
 
-    public static List<Order> GetAll()
+    public static List<Vendor> GetAll()
     {
-      return Order;
+      return _instances;
     }
 
     public void AddOrder(Order order)
