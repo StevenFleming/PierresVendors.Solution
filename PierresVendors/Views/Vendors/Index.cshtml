@@ -18,10 +18,10 @@
   <h3>No Vendors have been added yet!</h3>
 } 
 
-@foreach (Vendor Vendor in Model)
+@foreach (Vendor vendor in Model)
 {
-  <h3><a href='/Vendors/@Vendor.Id'>@Vendor.Name</a></h3>
+    <li>@Html.ActionLink($"{ vendor.Name }", "Details")</li>
 }
-<p><a href='/'>Back home</a></p>
+
   </body>
 </html>
