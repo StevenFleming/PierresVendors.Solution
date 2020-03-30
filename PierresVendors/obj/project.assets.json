@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Desktop/PierresVendors.Solution/PierresVendors/PierresVendors.csproj",
+      "projectUniqueName": "/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/PierresVendors.csproj",
       "projectName": "PierresVendors",
-      "projectPath": "/Users/apple/Desktop/PierresVendors.Solution/PierresVendors/PierresVendors.csproj",
+      "projectPath": "/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/PierresVendors.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Desktop/PierresVendors.Solution/PierresVendors/obj/",
+      "outputPath": "/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

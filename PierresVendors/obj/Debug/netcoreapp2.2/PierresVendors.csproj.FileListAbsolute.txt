@@ -25,3 +25,30 @@
 /Users/apple/Desktop/PierresVendors.Solution/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/vendors/Index.cshtml.g.cs
 /Users/apple/Desktop/PierresVendors.Solution/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/vendors/New.cshtml.g.cs
 /Users/apple/Desktop/PierresVendors.Solution/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/vendors/Show.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.csprojAssemblyReference.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.RazorAssemblyInfo.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.RazorAssemblyInfo.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.AssemblyInfoInputs.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.AssemblyInfo.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.dll
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.pdb
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.TagHelpers.input.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.TagHelpers.output.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.RazorCoreGenerate.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Orders/New.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Orders/Show.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Vendors/Index.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Vendors/New.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/Razor/Views/Vendors/Show.cshtml.g.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.RazorTargetAssemblyInfo.cache
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.RazorTargetAssemblyInfo.cs
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.deps.json
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.runtimeconfig.json
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.runtimeconfig.dev.json
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.dll
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.pdb
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.Views.dll
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/bin/Debug/netcoreapp2.2/PierresVendors.Views.pdb
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.Views.pdb
+/Users/apple/Desktop/PierresVendors.Solution 10.36.55 PM/PierresVendors/obj/Debug/netcoreapp2.2/PierresVendors.csproj.CopyComplete

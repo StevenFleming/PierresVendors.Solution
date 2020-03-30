@@ -11,8 +11,7 @@ namespace PierresVendors.Controllers
     [HttpGet("/vendors/{vendorId}/orders/new")]
     public ActionResult New(int vendorId)
     {
-      Vendor vendor = Vendor.FindById(vendorId);
-      return View(vendor);
+      return View(Vendor.FindById(vendorId));
     }
 
 
@@ -21,9 +20,11 @@ namespace PierresVendors.Controllers
     {
       Order order = Order.Find(orderId);
       Vendor vendor = Vendor.FindById(vendorId);
-      Dictionary<string, object> model = new Dictionary<string, object>();
-      model.Add("order", order);
-      model.Add("vendor", vendor);
+      Dictionary<string, object> model = new Dictionary<string, object>
+      {
+        {"order", order},
+        {"vendor", vendor},
+    };
       return View(model);
     }
 
@@ -33,6 +34,5 @@ namespace PierresVendors.Controllers
       Order.ClearAll();
       return View();
     }
-
   }
 }
